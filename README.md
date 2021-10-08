@@ -1,7 +1,7 @@
 # OFICINA2
 
 MEMBROS: GABRIEL PANCALDI RA:1914758
-OTAVIO OGO RA:
+         OTAVIO OGO RA:1836056
 
 #Meu Jogo
 - Sistema para controle de Jogos
